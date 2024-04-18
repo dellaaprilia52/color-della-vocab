@@ -1,0 +1,15 @@
+
+p{color: rgb(223, 225, 228);}
+
+.Green{color: rgb(29, 233, 49);}
+
+p[value="3"]{color : brown}
+
+#id-selector-demo{color: rgb(201, 222, 43);}
+
+.Pink{color: pink;}
+
+*{
+    text-align: left;
+    font-weight: normal;
+}
